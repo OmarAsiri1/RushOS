@@ -1,18 +1,18 @@
-# XyronOS
+# RushOS
 
-> XyronOS is currently under development and is planned to be released on April 10.
+> RushOS is currently under development and is planned to be released on April 10.
 
 > An Debian-based Linux distribution for beginners, designed to adapt and replace all operating systems.
 
 ## Overview
 
-**XyronOS** is an Debian-based Linux distribution focused on making Debian accessible to beginners while keeping the power, flexibility, and customization that advanced users expect.
+**RushOS** is an Debian-based Linux distribution focused on making Debian accessible to beginners while keeping the power, flexibility, and customization that advanced users expect.
 
 It is built to be a single system that adapts to different workflows, desktop preferences, and user skill levels.
 
 ## Desktop Environments
 
-XyronOS provides two distinct desktop experiences:
+RushOS provides two distinct desktop experiences:
 
 ### KDE
 - Clean and stable
@@ -43,7 +43,7 @@ Users can choose the environment that best fits their workflow.
 
 ## Philosophy
 
-XyronOS is built on a simple idea:
+RushOS is built on a simple idea:
 
 One system.  
 Multiple workflows.  
@@ -51,7 +51,7 @@ No limitations.
 
 ## Project Status
 
-XyronOS is under active development.  
+RushOS is under active development.  
 Features, configurations, and designs may change over time.
 
 ## License
