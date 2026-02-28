@@ -1,6 +1,6 @@
 # RushOS
 
-> RushOS is currently under development and is planned to be released on April 10.
+> RushOS is currently under development and is planned to be released soon as posible.
 
 > An Debian-based Linux distribution for beginners, designed to adapt and replace all operating systems.
 
