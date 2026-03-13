@@ -1,4 +1,4 @@
-# <img src="assets/logo.png" width="40" height="40" valign="middle"> RushOS
+# <img src="logo.png" width="40" height="40" valign="middle"> RushOS
 
 > **One System. Multiple Workflows. Zero Limitations.**
 
@@ -6,7 +6,7 @@
 
 ## 🖼️ Desktop Preview
 <p align="center">
-  <img src="asstes/desktop.png" alt="RushOS GNOME Desktop Preview" width="100%">
+  <img src="desktop.png" alt="RushOS GNOME Desktop Preview" width="100%">
   <br>
   <em>A glimpse of the refined GNOME experience in RushOS</em>
 </p>
